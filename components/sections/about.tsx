@@ -29,7 +29,7 @@ const About = () => {
 						What’s best from our{' '}
 						<span className='text-[#3A632F]'>plants</span>
 					</h1>
-					<p className=' text-black text-xl py-5'>
+					<p className=' text-slate-950 text-xl py-5'>
 						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 						Nam nec eros ut nunc luctus consectetur vel ac justo.
 						Donec vulputate orci ut mi sodales finibus. Aliquam
