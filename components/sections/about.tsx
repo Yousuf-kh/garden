@@ -15,15 +15,14 @@ const About = () => {
 				/>
 			</div>
 			<div className='h-full w-full flex items-end justify-between'>
-				<div className='w-1/2 relative '>
+				<div className='w-1/2  '>
 					<Image
-						src={'/about/1.png'}
+						src={'/about/1.svg'}
 						alt={'1'}
-						width={380}
+						width={420}
 						height={100}
 						className='mx-auto z-10'
 					/>
-					<div className='bg-[#80CA6C] absolute w-[80%] h-[70%] bottom-0 mx-auto left-[10%] z-[-1] rounded-t-full'></div>
 				</div>
 				<div className='w-1/2 pb-32'>
 					<h1 className=' capitalize text-6xl font-semibold'>
